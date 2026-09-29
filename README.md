@@ -128,11 +128,11 @@ In particular, the potential benefit comes from recognizing that the marginal va
 
 For an input (x), the additional predictive value of a more expensive model can be considered alongside its additional energy cost:
 
-Q(x,M_{\text{cheap}})
-]
+$Q(x,M_{\text{cheap}})$
 
-E(M_{\text{cheap}})
-]
+
+$E(M_{\text{cheap}})$
+
 
 The selection problem can therefore be viewed as determining whether the expected improvement in predictive quality justifies the additional computational and energy cost.
 
